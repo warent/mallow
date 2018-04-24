@@ -1,0 +1,16 @@
+{
+  "combos": {
+    "demo": {
+      "author": "Wyatt Arent",
+      "version": 1,
+      "glob": [
+        "demo/**/*"
+      ],
+      "skills": [
+        {
+          "name": "warent/mallow-skill-static-http"
+        }
+      ]
+    }
+  }
+}
